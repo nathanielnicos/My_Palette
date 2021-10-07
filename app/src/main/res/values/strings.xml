@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Palette</string>
+    <string name="preview">Preview</string>
+    <string name="vibrant">Vibrant</string>
+    <string name="dark_vibrant">Dark Vibrant</string>
+    <string name="light_vibrant">Light Vibrant</string>
+    <string name="muted">Muted</string>
+    <string name="dark_muted">Dark Muted</string>
+    <string name="light_muted">Light Muted</string>
+    <string name="dominant">Dominant</string>
+</resources>
